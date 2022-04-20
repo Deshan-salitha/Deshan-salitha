@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deshan-salitha
 - 👀 I’m interested in Coding, Robotics and Technical stuff  
 - 🌱 I’m currently learning Programming.
-- 💞️ I’m looking to collaborate on ...
 - 📫 If any one need to reach me, you can contact me with my email.(Deshan.salitha@outlook.com)
 
 <!---
