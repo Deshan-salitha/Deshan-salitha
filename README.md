@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @Deshan-salitha
+<!-- - 👋 Hi, I’m @Deshan-salitha
 - 👀 I’m interested in Coding, Robotics and Technical stuff  
 - 🌱 I’m currently learning Programming.
 - 📫 If any one need to reach me, you can contact me with my email.(Deshan.salitha@outlook.com)
-
-<!---
-Deshan-salitha/Deshan-salitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# 💫 About Me:
+ -->
+ # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Backend Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - Deshan.salitha@outlook.com<br>⚡ Fun fact: night time work is more easier than morning work 😎
 
 
@@ -33,4 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deshan-salitha&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
+<!---
+Deshan-salitha/Deshan-salitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
