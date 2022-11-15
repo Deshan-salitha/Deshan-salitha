@@ -19,6 +19,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deshan-salitha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![@deshansalitha's Holopin board](https://holopin.me/deshansalitha)](https://holopin.io/@deshansalitha)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
