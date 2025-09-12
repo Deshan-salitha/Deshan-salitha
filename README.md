@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=deshan-salitha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deshan-salitha&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deshan-salitha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![roadmap.sh](https://roadmap.sh/card/wide/65b4fd520c548122834729f5?variant=dark&roadmaps=spring-boot%2Cjava)](https://roadmap.sh)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deshan-salitha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 [![@deshansalitha's Holopin board](https://holopin.me/deshansalitha)](https://holopin.io/@deshansalitha)
