@@ -69,11 +69,7 @@ I build production backend systems and agentic AI applications. 4 years of exper
 
 <div align="center">
 
-![Deshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deshan-salitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshan-salitha&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deshan-salitha&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deshan-salitha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,6 +86,6 @@ I build production backend systems and agentic AI applications. 4 years of exper
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=deshan-wickramaarachchi&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=deshan-salitha&color=blueviolet&style=flat-square)
 
 </div>
