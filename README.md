@@ -69,11 +69,11 @@ I build production backend systems and agentic AI applications. 4 years of exper
 
 <div align="center">
 
-![Deshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deshan-wickramaarachchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Deshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deshan-salitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshan-wickramaarachchi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshan-salitha&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deshan-wickramaarachchi&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deshan-salitha&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
